@@ -1,9 +1,9 @@
 # Hello! My name is Julia! :smile:
-I'm an Information Systems student at FIAP. I also work as an intern with automation at Itau Unibanco Holding SA. :blue_book:
+I'm an Information Systems student at [FIAP](https://www.fiap.com.br/). I also work as an intern with automation at [Itau Unibanco Holding SA](https://www.itau.com.br/). :blue_book:
 Since I started college, I became passionate about Python and its usage with data science. :computer:
 Recently I've started to research more about the mobile language Dart, and it's framework Flutter. :iphone:
 
-![](giphy.gif)
+![alt-text](https://github.com/juliamonaco/juliamonaco/blob/master/giphy.gif)
 
 ### Some projects I've been a part of:
  1. **Antial**
@@ -16,4 +16,6 @@ Recently I've started to research more about the mobile language Dart, and it's 
 
 ### Find me at:
 # [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-de-alvarenga-m%C3%B4naco-64208687/)](https://www.linkedin.com/in/julia-de-alvarenga-m%C3%B4naco-64208687/)
+
+
 
