@@ -3,7 +3,7 @@ I'm an Information Systems student at FIAP. I also work as an intern with automa
 Since I started college, I became passionate about Python and its usage with data science. :computer:
 Recently I've started to research more about the mobile language Dart, and it's framework Flutter. :iphone:
 
-
+![](giphy.gif)
 
 ### Some projects I've been a part of:
  1. **Antial**
