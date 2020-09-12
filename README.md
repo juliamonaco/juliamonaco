@@ -17,7 +17,6 @@ Recently I've started to research more about the mobile language Dart, and it's 
 ### Find me at:
 # [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-de-alvarenga-m%C3%B4naco-64208687/)](https://www.linkedin.com/in/julia-de-alvarenga-m%C3%B4naco-64208687/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<juliamonaco>&theme=<tokyonight>"/>
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliamonaco&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=juliamonaco&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
