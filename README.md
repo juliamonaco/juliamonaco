@@ -1,5 +1,5 @@
 # Hello! My name is Julia! :smile:
-I'm an Information Systems student at [FIAP](https://www.fiap.com.br/). I also work as a junior analyst with .NET at [Itau Unibanco Holding SA](https://www.itau.com.br/). :blue_book:
+I'm a graduate in Information Systems student at [FIAP](https://www.fiap.com.br/). I also work as a Data Specialist at CI&T. :blue_book:
 Since I started college, I became passionate about Python and its usage with data science. :computer:
 Recently I've started to research more about the mobile language Dart, and it's framework Flutter. :iphone:
 
